@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "768169ee-3ea3-4316-abaa-8856f7906d14": {
+      "label": "atw",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll83/1617.mp3/byte/json",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Atwood",
+  "av_file_order": [
+    "768169ee-3ea3-4316-abaa-8856f7906d14"
+  ],
+  "created_at": "2026-08-21T18:44:48.890Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-21T18:44:48.890Z",
+  "updated_by": "kywark"
+}
