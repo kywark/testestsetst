@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "c9d7dbd5-9c2e-44e2-831d-c82e7f0fe06c": {
+      "label": "backrooms",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://dn710107.ca.archive.org/0/items/Backrooms-ost_202605/Basement%20Land.mp3",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "backrooms",
+  "av_file_order": [
+    "c9d7dbd5-9c2e-44e2-831d-c82e7f0fe06c"
+  ],
+  "created_at": "2026-08-21T18:40:36.195Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-21T18:40:36.195Z",
+  "updated_by": "kywark"
+}
