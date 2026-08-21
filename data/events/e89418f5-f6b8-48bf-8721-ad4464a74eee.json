@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "8e2ae45d-9d9a-452f-a9be-548e1af59372": {
+      "label": "chopin",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=9E6b3swbnWg",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "chopin",
+  "av_file_order": [
+    "8e2ae45d-9d9a-452f-a9be-548e1af59372"
+  ],
+  "created_at": "2026-08-21T18:39:02.379Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-21T18:39:02.379Z",
+  "updated_by": "kywark"
+}
