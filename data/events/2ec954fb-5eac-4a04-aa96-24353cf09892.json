@@ -1,0 +1,20 @@
+{
+  "audiovisual_files": {},
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "TIMI",
+  "created_at": "2026-10-19T18:03:12.545Z",
+  "created_by": "kywark",
+  "updated_at": "2026-10-19T18:03:12.545Z",
+  "updated_by": "kywark"
+}
