@@ -4,7 +4,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "<iframe width=\"485\" height=\"385\" src=\"https://texasarchive.org/glifosrichmedia/build?id=2019_01306_480x360&embed\" frameborder=\"0\">"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://github.com/kywark/testestsetst/blob/main/data/images.jpeg?raw=true",
+      "caption": "testing image",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -12,19 +22,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "</iframe>"
+          "text": ""
         }
       ]
     }
   ],
-  "title": "timi",
+  "title": "images",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "timi-2",
+  "slug": "images",
   "created_at": "2026-10-19T18:03:37.353Z",
   "created_by": "kywark",
-  "updated_at": "2026-10-19T18:03:37.353Z",
+  "updated_at": "2026-11-08T20:43:08.891Z",
   "updated_by": "kywark"
 }
