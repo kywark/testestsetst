@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "7e3e7f91-574d-4957-9f5f-a3e8d1b8e610",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-08-21T18:44:49.135Z",
   "created_by": "kywark",
   "title": "Atwood",
   "slug": "atwood",
-  "updated_at": "2026-08-21T18:44:49.135Z",
+  "updated_at": "2026-11-15T20:45:14.008Z",
   "updated_by": "kywark",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "7e3e7f91-574d-4957-9f5f-a3e8d1b8e610"
   }
